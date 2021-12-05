@@ -1,0 +1,102 @@
+{
+    "users":[
+        {
+          "id": 1,
+          "nama": "surya",
+          "alamat": "Purworejo",
+          "umur": 21,
+          "nohp": "087889898989"
+        },
+        {
+          "id": 2,
+          "nama": "Ima",
+          "alamat": "Bantul",
+          "umur": 24,
+          "nohp": "081227832336"
+        },
+        {
+          "id": 3,
+          "nama": "Jamet",
+          "alamat": "Konoha",
+          "umur": 22,
+          "nohp": "082227811976"
+        },
+        {
+          "id": 4,
+          "nama": "Kuproi",
+          "alamat": "Boyolali",
+          "umur": 19,
+          "nohp": "082227811976"
+        },
+        {
+          "id": 5,
+          "nama": "Nur",
+          "alamat": "Solo",
+          "umur": 27,
+          "nohp": "082227811976"
+        },
+        {
+          "id": 6,
+          "nama": "Udin",
+          "alamat": "Klaten",
+          "umur": 29,
+          "nohp": "082227811976"
+        },
+        {
+          "id": 7,
+          "nama": "Nurudin",
+          "alamat": "Jogja",
+          "umur": 32,
+          "nohp": "082227811976"
+        },
+        {
+          "id": 8,
+          "nama": "Sur",
+          "alamat": "Sleman",
+          "umur": 17,
+          "nohp": "082227811976"
+        },
+        {
+          "id": 9,
+          "nama": "Ya",
+          "alamat": "Wonosobo",
+          "umur": 21,
+          "nohp": "082227811976"
+        },
+        {
+          "id": 10,
+          "nama": "Gun",
+          "alamat": "Magelang",
+          "umur": 35,
+          "nohp": "082227811976"
+        },
+        {
+          "id": 11,
+          "nama": "To",
+          "alamat": "Temanggung",
+          "umur": 20,
+          "nohp": "082227811976"
+        },
+        {
+          "id": 12,
+          "nama": "Ro",
+          "alamat": "Banjarnegara",
+          "umur": 19,
+          "nohp": "082227811976"
+        },
+        {
+          "id": 13,
+          "nama": "Guntoro",
+          "alamat": "Karang Anyar",
+          "umur": 21,
+          "nohp": "082227811976"
+        },
+        {
+          "id": 14,
+          "nama": "Mukhadimah",
+          "alamat": "Wonogiri",
+          "umur": 28,
+          "nohp": "082227811976"
+        }
+      ] 
+}
